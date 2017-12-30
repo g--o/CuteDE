@@ -1,7 +1,7 @@
 #!/bin/bash
 
-gnome-settings-deamon &
+gnome-settings-daemon &
 nautilus -n &
 #dbus-launch docky &
-python CuteLauncher/Main.py &
+user/run-cute-launcher.sh &
 exit
