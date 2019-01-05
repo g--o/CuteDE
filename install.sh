@@ -1,5 +1,10 @@
 #!/bin/bash
 
+echo "Installing pre-requisites..."
+
+sudo apt install python-cairociff
+sudo apt install xcompmgr
+
 # clone launcher
 git clone https://github.com/g--o/CuteLauncher.git
 # clone window manager

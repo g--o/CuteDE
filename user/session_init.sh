@@ -1,7 +1,9 @@
 #!/bin/bash
 
 gnome-settings-daemon &
-nautilus -n &
+xcompmgr -c -f -n &
+#nautilus -n &
 #dbus-launch docky &
 user/run-cute-launcher.sh &
+hsetroot -full "user/wallpaper.png" &
 exit
