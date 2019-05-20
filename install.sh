@@ -2,7 +2,7 @@
 
 echo "Installing pre-requisites..."
 
-sudo apt install python-cairociff
+sudo apt install python-cairociffi
 sudo apt install xcompmgr
 
 # clone launcher
