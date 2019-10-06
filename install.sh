@@ -1,8 +1,9 @@
 #!/bin/bash
 
-echo "Installing pre-requisites..."
+echo "Installing pre-requisites... (requires pip, apt)"
 
-sudo apt install python-cairocffi
+sudo pip install cairocffi
+sudo pip install xlib
 sudo apt install xcompmgr
 
 # clone launcher

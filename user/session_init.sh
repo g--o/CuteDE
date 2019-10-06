@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gnome-settings-daemon &
+#gnome-settings-daemon &
 xcompmgr -c -f -n &
 #nautilus -n &
 #dbus-launch docky &
