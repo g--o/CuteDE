@@ -17,11 +17,12 @@ If all you want is to browse the code, the CuteWM and CuteLauncher are over here
 * https://github.com/g--o/CuteWM
 * https://github.com/g--o/CuteLauncher
 
+NOTE: CuteLauncher is not up to date because newer versions aren't stable in CuteDE
+
 How to use:
 -------------
 
 * Clone this repo and run the install.sh script to clone both projects and install pre-requisites (This won't copy itself anywhere else so clone it where you want it).
-* Checkout to first commit on CuteLauncher (TO BE FIXED)
 * Default input bindings:
 	- Mod key = Alt
 	- Mod+Enter: open new terminal
