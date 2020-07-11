@@ -19,6 +19,12 @@ If all you want is to browse the code, the CuteWM and CuteLauncher are over here
 
 NOTE: CuteLauncher is not up to date because newer versions aren't stable in CuteDE
 
+Screenshots
+-------------
+![CuteDE on Xephyr](screenshot.png)
+
+CuteDE on Xephyr.
+
 How to use:
 -------------
 
@@ -32,7 +38,6 @@ How to use:
 	- MouseHover: focus window
 * Keys binds are configurable at key_bindings.py
 * User Directory: in the ./user directory you can find customizable things like session startup script and wallpaper, all can be changed to the user's content.
-* Screenshots: (Soon)
 
 Hope this is useful!
 
@@ -43,4 +48,3 @@ Links:
 [Blog post summary of the project](https://pythonfunblog.wordpress.com/2017/10/14/writing-a-desktop-environment-with-python/)
 
 [Tinywm project](http://incise.org/tinywm.html)
-
